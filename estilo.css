@@ -1,0 +1,36 @@
+body{
+    background-color:#c81527;
+    color: #fc7f03
+    
+}
+h1{
+    color: #03134e;
+    font-size: 40px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+}
+p{
+    color: rgb(226, 212, 212);
+    font-size: 25px;
+    font-family: fantasy;
+}
+.dudu{
+    height: 300px;
+    width: 500px;
+   margin-bottom: 50px;
+   margin-left: 100px;
+}
+.botão{
+    display:flex;
+    margin-top: 25px;
+}
+iframe{
+    height: 300px;
+   width: 500px;
+   margin-bottom: 50px; 
+   margin-left: 150px;
+}
+button{
+    padding: 15px 15px;
+    background-color: rgb(74, 170, 189);
+}
